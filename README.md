@@ -4,4 +4,4 @@ This tool copies all songs from source-playlist to target-playlist while avoidin
 How to use:
 
 Open playlist.config with any text-editor.
-Insert your sources and targets playlist-id.
+Insert your source's and target's playlist-id.
